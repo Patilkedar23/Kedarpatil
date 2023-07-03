@@ -1,5 +1,5 @@
 # Kedarpatil
-👋 Hi there! I'm Kedar PAtil, a recent Computer Science Engineering graduate passionate about software development and technology.
+👋 Hi there! I'm Kedar Patil, a recent Computer Science Engineering graduate passionate about software development and technology.
 
 🎓 Education:
 - B.Tech in Computer Science Engineering, Savitribai Phule Pune University, 2023
