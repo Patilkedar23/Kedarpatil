@@ -17,7 +17,7 @@
 - Tools: vs-code,Eclipse,Figma,Adobe Xd,Canva.
 
 🌟 Projects:
-- Cover-Page Generator: This is the Web App created for the students of my college department which can be used to generate the coverpage of the lab reports without any hassle student just need to enter the required information in the all the input fields and upon clicking the download buttton the pdf of the coverpage should be generated. Note:---> some features may not be available other features are comming soon :)
+- Cover-Page Generator: This is the Web App created for the students of my college department which can be used to generate the coverpage of the lab reports without any hassle student just need to enter the required information in the all the input fields and upon clicking the download buttton the pdf of the coverpage should be generated. Note:---> some features may not be available other features are coming soon :)
 - Demo-link->  https://patilkedar23.github.io/coverpagegenerator/
 - Code-link->  https://github.com/Patilkedar23/coverpagegenerator.git
 
