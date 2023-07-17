@@ -18,12 +18,12 @@
 
 🌟 Projects:
 - Cover-Page Generator: This is the Web App created for the students of my college department which can be used to generate the coverpage of the lab reports without any hassle student just need to enter the required information in the all the input fields and upon clicking the download buttton the pdf of the coverpage should be generated. Note:---> some features may not be available other features are coming soon :)
-  Demo-link->  https://patilkedar23.github.io/coverpagegenerator/
-  Code-link->  https://github.com/Patilkedar23/coverpagegenerator.git
+-  Demo-link->  https://patilkedar23.github.io/coverpagegenerator/
+-  Code-link->  https://github.com/Patilkedar23/coverpagegenerator.git
 
 - Portfolio Website:My portfolio website is a visually appealing and responsive platform that showcases my skills and projects. It features sections like About Me, Projects and Contact. Users can easily get in touch with me through the contact section. The website is designed to grow as I continue to add new projects and update my skills.
-  Demo-link->  https://patilkedar23.github.io/KedarPortfolio/
-  Code-link->  https://github.com/Patilkedar23/KedarPortfolio
+-  Demo-link->  https://patilkedar23.github.io/KedarPortfolio/
+-  Code-link->  https://github.com/Patilkedar23/KedarPortfolio
   
 📫 Reach me: kedarpatil4445@gmail.com
 
